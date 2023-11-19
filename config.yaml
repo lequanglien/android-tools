@@ -1,0 +1,16 @@
+###### Features :
+# - Resize bitmap with max : maxWidth
+# - Convert Png to JPG : jsPngToJpg
+
+#inputFolder: "/Users/lienlq/MobileAi/Remini/aibi-photo-enhancer/app/src/main/assets/Sample Files"
+#maxWidth: 600
+#isPngToJpg: true
+#outFolder: "Output_Aibi_Sample"
+
+
+
+inputFolder: "/Users/lienlq/Downloads/135/11"
+maxWidth: 600
+isPngToJpg: true
+outFolder: "Output_BE_Christmas"
+startWithName: "christmas_"
