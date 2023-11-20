@@ -39,4 +39,5 @@ bin/
 .DS_Store
 
 ./Output_BE_Christmas/
+./Output_.*/
 /.idea/
